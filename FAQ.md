@@ -107,3 +107,8 @@ This features doesn't make any distinction between "incognito" and non "incognit
 ### Does this specification allow downgrading default security characteristics?
 
 No.
+
+
+### Web Otp integration with Angular pwa.
+https://github.com/Rohit3230/webOtpAutoReadByAngular
+https://rohit3230.github.io/webOtpAutoReadByAngular/
